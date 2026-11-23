@@ -2,7 +2,7 @@
 [![Linux](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeLinux.yml/badge.svg)](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeLinux.yml) [![Windows x64](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeWin64.yml/badge.svg?branch=master)](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeWin64.yml) [![MacOS](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeMacOs.yml/badge.svg)](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeMacOs.yml) [![Android](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeAndroid.yml/badge.svg)](https://github.com/LibreSprite/LibreSprite/actions/workflows/cmakeAndroid.yml)
 
 ## Introduction
-LibreSprite is a free and open source program for creating and animating your sprites.
+LibreSprite  is a free and open source program for creating and animating your sprites.
 * Real-time animation previews.
 * Onion skinning.
 * Multiple sprites can be edited at once.
